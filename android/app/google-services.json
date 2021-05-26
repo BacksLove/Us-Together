@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993873472239",
+    "firebase_url": "https://us-together-c1efd.firebaseio.com",
+    "project_id": "us-together-c1efd",
+    "storage_bucket": "us-together-c1efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993873472239:android:3b3d8643966b376ede491a",
+        "android_client_info": {
+          "package_name": "com.backslova.us_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993873472239-a21ree52ldgeslj5rtee43r25lj02f4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.backslova.us_together",
+            "certificate_hash": "7b092823bd6bf07d1aa495548a89b6ab11145ec7"
+          }
+        },
+        {
+          "client_id": "993873472239-sm4cab1dklbp1v78tsi3kkn8dc6ui997.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLM9O7ee3mIldZlRiYdUTkySn2sMRJsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993873472239-sm4cab1dklbp1v78tsi3kkn8dc6ui997.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993873472239-8r95r4tdldf6h9aker9htbhp95123sbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.usTogether"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
